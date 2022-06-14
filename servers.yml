@@ -1,0 +1,13 @@
+Description: >
+  Author / Chidubem Nwabuisi
+
+  This template creates the resources required to host a web application on an Amazon EC2 resources.
+
+  The following resources are created:
+  - AWS::EC2::SecurityGroup
+  - AWS::AutoScaling::LaunchConfiguration
+  - AWS::AutoScaling::AutoScalingGroup
+  - AWS::ElasticLoadBalancingV2::LoadBalancer
+  - AWS::ElasticLoadBalancingV2::TargetGroup
+  - AWS::ElasticLoadBalancingV2::Listener
+  
