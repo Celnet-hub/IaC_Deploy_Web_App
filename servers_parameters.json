@@ -1,6 +1,10 @@
 [
     {
 		"ParameterKey": "EnvironmentName",
-		"ParameterValue": "DubemUdacity_Project2"
+		"ParameterValue": "DubemUdacityProject2"
+	},
+    {
+		"ParameterKey": "AMI",
+		"ParameterValue": "ami-0729e439b6769d6ab"
 	}
 ]
